@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/photography/static/css/main.7124f90b.css",
+    "main.js": "/photography/static/js/main.872a580e.js",
+    "static/js/453.f33c0dc2.chunk.js": "/photography/static/js/453.f33c0dc2.chunk.js",
+    "static/media/2023SeniorReEdit2-8695.jpg": "/photography/static/media/2023SeniorReEdit2-8695.0fee337fc99e90b0f87a.jpg",
+    "static/media/2023SeniorReEdit2-9198.jpg": "/photography/static/media/2023SeniorReEdit2-9198.4317c6b4d59640ea7f50.jpg",
+    "static/media/2023SeniorReEdit2-8848.jpg": "/photography/static/media/2023SeniorReEdit2-8848.56f3c3239292834be0a1.jpg",
+    "static/media/2023SeniorReEdit2-8998.jpg": "/photography/static/media/2023SeniorReEdit2-8998.322185024e5fee1847ba.jpg",
+    "static/media/2023SeniorReEdit2-8568.jpg": "/photography/static/media/2023SeniorReEdit2-8568.04ee895824e96a8b5006.jpg",
+    "static/media/2023SeniorReEdit2-8016.jpg": "/photography/static/media/2023SeniorReEdit2-8016.03cbbbd065ed19f90b3f.jpg",
+    "static/media/2023SeniorReEdit2-8317.jpg": "/photography/static/media/2023SeniorReEdit2-8317.78caa01d4a6ccd173073.jpg",
+    "static/media/2023SeniorReEdit2-7909.jpg": "/photography/static/media/2023SeniorReEdit2-7909.a4f1a14756dd2931d314.jpg",
+    "index.html": "/photography/index.html",
+    "main.7124f90b.css.map": "/photography/static/css/main.7124f90b.css.map",
+    "main.872a580e.js.map": "/photography/static/js/main.872a580e.js.map",
+    "453.f33c0dc2.chunk.js.map": "/photography/static/js/453.f33c0dc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7124f90b.css",
+    "static/js/main.872a580e.js"
+  ]
+}
